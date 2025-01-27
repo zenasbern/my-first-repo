@@ -1,2 +1,1 @@
-Hello World of Repo
-This is another push test
+Hello World! This is my first repository.
